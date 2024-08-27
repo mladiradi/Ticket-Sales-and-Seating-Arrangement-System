@@ -19,8 +19,7 @@ No external libraries are required.
 # Usage
 1.Run the program:
 
-Копиране на код
-python ticket_sales.py
+ticket_sales.py
 
 2.Follow the prompts:
 
